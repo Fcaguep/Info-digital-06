@@ -1,0 +1,343 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="1080">
+    <rect width="1180" height="1080" x="0" y="0" fill="#FFFFFF" id="backgorund" />
+    <g transform="translate(100,20)" id="viz">
+        <g id="links">
+            <path d="M0,469.0954670758996C130,469.0954670758996,130,469.0954670758996,260,469.0954670758996" fill="none" stroke="#ccc" />
+            <path d="M260,469.0954670758996C390,469.0954670758996,390,14.099627602043384,520,14.099627602043384" fill="none" stroke="#ccc" />
+            <path d="M260,469.0954670758996C390,469.0954670758996,390,419.8473158397087,520,419.8473158397087" fill="none" stroke="#ccc" />
+            <path d="M260,469.0954670758996C390,469.0954670758996,390,924.0913065497558,520,924.0913065497558" fill="none" stroke="#ccc" />
+            <path d="M520,14.099627602043384C650,14.099627602043384,650,14.099627602043384,780,14.099627602043384" fill="none" stroke="#ccc" />
+            <path d="M520,419.8473158397087C650,419.8473158397087,650,44.3304952068176,780,44.3304952068176" fill="none" stroke="#ccc" />
+            <path d="M520,419.8473158397087C650,419.8473158397087,650,73.48130257838217,780,73.48130257838217" fill="none" stroke="#ccc" />
+            <path d="M520,419.8473158397087C650,419.8473158397087,650,97.64971811689584,780,97.64971811689584" fill="none" stroke="#ccc" />
+            <path d="M520,419.8473158397087C650,419.8473158397087,650,120.53698268027783,780,120.53698268027783" fill="none" stroke="#ccc" />
+            <path d="M520,419.8473158397087C650,419.8473158397087,650,145.09387570089163,780,145.09387570089163" fill="none" stroke="#ccc" />
+            <path d="M520,419.8473158397087C650,419.8473158397087,650,172.01197992984677,780,172.01197992984677" fill="none" stroke="#ccc" />
+            <path d="M520,419.8473158397087C650,419.8473158397087,650,197.2604557015701,780,197.2604557015701" fill="none" stroke="#ccc" />
+            <path d="M520,419.8473158397087C650,419.8473158397087,650,221.42887124008377,780,221.42887124008377" fill="none" stroke="#ccc" />
+            <path d="M520,419.8473158397087C650,419.8473158397087,650,247.26691523582923,780,247.26691523582923" fill="none" stroke="#ccc" />
+            <path d="M520,419.8473158397087C650,419.8473158397087,650,274.18501946478443,780,274.18501946478443" fill="none" stroke="#ccc" />
+            <path d="M520,419.8473158397087C650,419.8473158397087,650,303.4643349020808,780,303.4643349020808" fill="none" stroke="#ccc" />
+            <path d="M520,419.8473158397087C650,419.8473158397087,650,333.695202506855,780,333.695202506855" fill="none" stroke="#ccc" />
+            <path d="M520,419.8473158397087C650,419.8473158397087,650,361.5648589032879,780,361.5648589032879" fill="none" stroke="#ccc" />
+            <path d="M520,419.8473158397087C650,419.8473158397087,650,388.48296313224307,780,388.48296313224307" fill="none" stroke="#ccc" />
+            <path d="M520,419.8473158397087C650,419.8473158397087,650,416.6822183363298,780,416.6822183363298" fill="none" stroke="#ccc" />
+            <path d="M520,419.8473158397087C650,419.8473158397087,650,442.52026233207533,780,442.52026233207533" fill="none" stroke="#ccc" />
+            <path d="M520,419.8473158397087C650,419.8473158397087,650,467.07715535268915,780,467.07715535268915" fill="none" stroke="#ccc" />
+            <path d="M520,419.8473158397087C650,419.8473158397087,650,491.63404837330296,780,491.63404837330296" fill="none" stroke="#ccc" />
+            <path d="M520,419.8473158397087C650,419.8473158397087,650,519.5037047697358,780,519.5037047697358" fill="none" stroke="#ccc" />
+            <path d="M520,419.8473158397087C650,419.8473158397087,650,547.3733611661687,780,547.3733611661687" fill="none" stroke="#ccc" />
+            <path d="M520,419.8473158397087C650,419.8473158397087,650,571.9302541867826,780,571.9302541867826" fill="none" stroke="#ccc" />
+            <path d="M520,419.8473158397087C650,419.8473158397087,650,596.4871472073964,780,596.4871472073964" fill="none" stroke="#ccc" />
+            <path d="M520,419.8473158397087C650,419.8473158397087,650,625.2170725208304,780,625.2170725208304" fill="none" stroke="#ccc" />
+            <path d="M520,419.8473158397087C650,419.8473158397087,650,657.2597612100833,780,657.2597612100833" fill="none" stroke="#ccc" />
+            <path d="M520,419.8473158397087C650,419.8473158397087,650,686.4105685816477,780,686.4105685816477" fill="none" stroke="#ccc" />
+            <path d="M520,419.8473158397087C650,419.8473158397087,650,714.6098237857344,780,714.6098237857344" fill="none" stroke="#ccc" />
+            <path d="M520,419.8473158397087C650,419.8473158397087,650,743.889139223031,780,743.889139223031" fill="none" stroke="#ccc" />
+            <path d="M520,419.8473158397087C650,419.8473158397087,650,770.807243451986,780,770.807243451986" fill="none" stroke="#ccc" />
+            <path d="M520,419.8473158397087C650,419.8473158397087,650,795.3641364725999,780,795.3641364725999" fill="none" stroke="#ccc" />
+            <path d="M520,924.0913065497558C650,924.0913065497558,650,822.282240701555,780,822.282240701555" fill="none" stroke="#ccc" />
+            <path d="M520,924.0913065497558C650,924.0913065497558,650,851.5615561388514,780,851.5615561388514" fill="none" stroke="#ccc" />
+            <path d="M520,924.0913065497558C650,924.0913065497558,650,880.8408715761478,780,880.8408715761478" fill="none" stroke="#ccc" />
+            <path d="M520,924.0913065497558C650,924.0913065497558,650,909.0401267802346,780,909.0401267802346" fill="none" stroke="#ccc" />
+            <path d="M520,924.0913065497558C650,924.0913065497558,650,937.2393819843214,780,937.2393819843214" fill="none" stroke="#ccc" />
+            <path d="M520,924.0913065497558C650,924.0913065497558,650,967.4702495890956,780,967.4702495890956" fill="none" stroke="#ccc" />
+            <path d="M520,924.0913065497558C650,924.0913065497558,650,997.7011171938699,780,997.7011171938699" fill="none" stroke="#ccc" />
+            <path d="M520,924.0913065497558C650,924.0913065497558,650,1025.9003723979567,780,1025.9003723979567" fill="none" stroke="#ccc" />
+        </g>
+        <g id="nodes">
+            <g transform="translate(0,469.0954670758996)">
+                <circle fill="#ccc" r="45.27692569068709" />
+                <text text-anchor="end" dominant-baseline="text-before-edge" transform="translate(0,0)">
+                    <tspan x="-47.27692569068709" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;" />
+                </text>
+            </g>
+            <g id="Felidae" transform="translate(260,469.0954670758996)">
+                <circle fill="#ccc" r="45.27692569068709" />
+                <text text-anchor="end" dominant-baseline="text-before-edge" transform="translate(0,-5.6015625)">
+                    <tspan x="-47.27692569068709" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">Felidae</tspan>
+                </text>
+            </g>
+            <g id="Acinonychinae" transform="translate(520,14.099627602043384)">
+                <circle fill="#8b572a" r="8.16496580927726" />
+                <text text-anchor="end" dominant-baseline="text-before-edge" transform="translate(0,-5.6015625)">
+                    <tspan x="-10.16496580927726" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">Acinonychinae</tspan>
+                </text>
+            </g>
+            <g id="Felinae" transform="translate(520,419.8473158397087)">
+                <circle fill="#f8e71c" r="38.29708431025353" />
+                <text text-anchor="end" dominant-baseline="text-before-edge" transform="translate(0,-5.6015625)">
+                    <tspan x="-40.29708431025353" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">Felinae</tspan>
+                </text>
+            </g>
+            <g id="Pantherinae" transform="translate(520,924.0913065497558)">
+                <circle fill="#f5a623" r="22.73030282830976" />
+                <text text-anchor="end" dominant-baseline="text-before-edge" transform="translate(0,-5.6015625)">
+                    <tspan x="-24.73030282830976" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">Pantherinae</tspan>
+                </text>
+            </g>
+            <g id="Acinonyx jubatus" transform="translate(780,14.099627602043384)">
+                <circle fill="#8b572a" r="8.16496580927726" />
+                <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.6015625)">
+                    <tspan x="10.16496580927726" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">cheetah</tspan>
+                </text>
+            </g>
+            <g id="Catopuma badia" transform="translate(780,44.3304952068176)">
+                <circle fill="#f8e71c" r="9.12870929175277" />
+                <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.6015625)">
+                    <tspan x="11.12870929175277" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">bay cat</tspan>
+                </text>
+            </g>
+            <g id="Catopuma temminckii" transform="translate(780,73.48130257838217)">
+                <circle fill="#f8e71c" r="7.0710678118654755" />
+                <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.6015625)">
+                    <tspan x="9.071067811865476" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Asiatic golden cat</tspan>
+                </text>
+            </g>
+            <g id="Felis catus" transform="translate(780,97.64971811689584)">
+                <circle fill="#f8e71c" r="4.08248290463863" />
+                <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.6015625)">
+                    <tspan x="6.08248290463863" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">domestic cat</tspan>
+                </text>
+            </g>
+            <g id="Felis chaus" transform="translate(780,120.53698268027783)">
+                <circle fill="#f8e71c" r="5.773502691896258" />
+                <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.6015625)">
+                    <tspan x="7.773502691896258" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">jungle cat</tspan>
+                </text>
+            </g>
+            <g id="Felis margarita" transform="translate(780,145.09387570089163)">
+                <circle fill="#f8e71c" r="5.773502691896258" />
+                <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.6015625)">
+                    <tspan x="7.773502691896258" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">sand cat</tspan>
+                </text>
+            </g>
+            <g id="Felis nigripes" transform="translate(780,172.01197992984677)">
+                <circle fill="#f8e71c" r="8.16496580927726" />
+                <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.6015625)">
+                    <tspan x="10.16496580927726" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">black-footed cat</tspan>
+                </text>
+            </g>
+            <g id="Felis silvestris" transform="translate(780,197.2604557015701)">
+                <circle fill="#f8e71c" r="4.08248290463863" />
+                <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.6015625)">
+                    <tspan x="6.08248290463863" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">wild cat</tspan>
+                </text>
+            </g>
+            <g id="Leopardus colocolo" transform="translate(780,221.42887124008377)">
+                <circle fill="#f8e71c" r="7.0710678118654755" />
+                <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.6015625)">
+                    <tspan x="9.071067811865476" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Colocolo</tspan>
+                </text>
+            </g>
+            <g id="Leopardus geoffroyi" transform="translate(780,247.26691523582923)">
+                <circle fill="#f8e71c" r="5.773502691896258" />
+                <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.6015625)">
+                    <tspan x="7.773502691896258" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Geoffroy's cat</tspan>
+                </text>
+            </g>
+            <g id="Leopardus guigna" transform="translate(780,274.18501946478443)">
+                <circle fill="#f8e71c" r="8.16496580927726" />
+                <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.6015625)">
+                    <tspan x="10.16496580927726" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Kodkod</tspan>
+                </text>
+            </g>
+            <g id="Leopardus guttulus" transform="translate(780,303.4643349020808)">
+                <circle fill="#f8e71c" r="8.16496580927726" />
+                <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.6015625)">
+                    <tspan x="10.16496580927726" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Southern oncilla</tspan>
+                </text>
+            </g>
+            <g id="Leopardus jacobita" transform="translate(780,333.695202506855)">
+                <circle fill="#f8e71c" r="9.12870929175277" />
+                <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.6015625)">
+                    <tspan x="11.12870929175277" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Andean mountain cat</tspan>
+                </text>
+            </g>
+            <g id="Leopardus pardalis" transform="translate(780,361.5648589032879)">
+                <circle fill="#f8e71c" r="5.773502691896258" />
+                <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.6015625)">
+                    <tspan x="7.773502691896258" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">ocelot</tspan>
+                </text>
+            </g>
+            <g id="Leopardus tigrinus" transform="translate(780,388.48296313224307)">
+                <circle fill="#f8e71c" r="8.16496580927726" />
+                <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.6015625)">
+                    <tspan x="10.16496580927726" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">little spotted cat</tspan>
+                </text>
+            </g>
+            <g id="Leopardus wiedii" transform="translate(780,416.6822183363298)">
+                <circle fill="#f8e71c" r="7.0710678118654755" />
+                <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.6015625)">
+                    <tspan x="9.071067811865476" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">margay</tspan>
+                </text>
+            </g>
+            <g id="Leptailurus serval" transform="translate(780,442.52026233207533)">
+                <circle fill="#f8e71c" r="5.773502691896258" />
+                <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.6015625)">
+                    <tspan x="7.773502691896258" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">serval</tspan>
+                </text>
+            </g>
+            <g id="Lynx canadensis" transform="translate(780,467.07715535268915)">
+                <circle fill="#f8e71c" r="5.773502691896258" />
+                <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.6015625)">
+                    <tspan x="7.773502691896258" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Canada lynx</tspan>
+                </text>
+            </g>
+            <g id="Lynx lynx" transform="translate(780,491.63404837330296)">
+                <circle fill="#f8e71c" r="5.773502691896258" />
+                <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.6015625)">
+                    <tspan x="7.773502691896258" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Eurasian lynx</tspan>
+                </text>
+            </g>
+            <g id="Lynx pardinus" transform="translate(780,519.5037047697358)">
+                <circle fill="#f8e71c" r="9.12870929175277" />
+                <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.6015625)">
+                    <tspan x="11.12870929175277" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Spanish lynx</tspan>
+                </text>
+            </g>
+            <g id="Lynx rufus" transform="translate(780,547.3733611661687)">
+                <circle fill="#f8e71c" r="5.773502691896258" />
+                <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.6015625)">
+                    <tspan x="7.773502691896258" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">bobcat</tspan>
+                </text>
+            </g>
+            <g id="Otocolobus manul" transform="translate(780,571.9302541867826)">
+                <circle fill="#f8e71c" r="5.773502691896258" />
+                <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.6015625)">
+                    <tspan x="7.773502691896258" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Pallas's cat</tspan>
+                </text>
+            </g>
+            <g id="Prionailurus bengalensis" transform="translate(780,596.4871472073964)">
+                <circle fill="#f8e71c" r="5.773502691896258" />
+                <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.6015625)">
+                    <tspan x="7.773502691896258" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">leopard cat</tspan>
+                </text>
+            </g>
+            <g id="Prionailurus iriomotensis" transform="translate(780,625.2170725208304)">
+                <circle fill="#f8e71c" r="10" />
+                <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.6015625)">
+                    <tspan x="12" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Iriomote cat</tspan>
+                </text>
+            </g>
+            <g id="Prionailurus planiceps" transform="translate(780,657.2597612100833)">
+                <circle fill="#f8e71c" r="9.12870929175277" />
+                <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.6015625)">
+                    <tspan x="11.12870929175277" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">flat-headed cat</tspan>
+                </text>
+            </g>
+            <g id="Prionailurus rubiginosus" transform="translate(780,686.4105685816477)">
+                <circle fill="#f8e71c" r="7.0710678118654755" />
+                <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.6015625)">
+                    <tspan x="9.071067811865476" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">rusty-spotted cat</tspan>
+                </text>
+            </g>
+            <g id="Prionailurus viverrinus" transform="translate(780,714.6098237857344)">
+                <circle fill="#f8e71c" r="8.16496580927726" />
+                <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.6015625)">
+                    <tspan x="10.16496580927726" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">fishing cat</tspan>
+                </text>
+            </g>
+            <g id="Profelis aurata" transform="translate(780,743.889139223031)">
+                <circle fill="#f8e71c" r="8.16496580927726" />
+                <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.6015625)">
+                    <tspan x="10.16496580927726" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">African golden cat</tspan>
+                </text>
+            </g>
+            <g id="Puma concolor" transform="translate(780,770.807243451986)">
+                <circle fill="#f8e71c" r="5.773502691896258" />
+                <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.6015625)">
+                    <tspan x="7.773502691896258" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">puma</tspan>
+                </text>
+            </g>
+            <g id="Puma yagouaroundi" transform="translate(780,795.3641364725999)">
+                <circle fill="#f8e71c" r="5.773502691896258" />
+                <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.6015625)">
+                    <tspan x="7.773502691896258" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">jaguarundi</tspan>
+                </text>
+            </g>
+            <g id="Neofelis diardi" transform="translate(780,822.282240701555)">
+                <circle fill="#f5a623" r="8.16496580927726" />
+                <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.6015625)">
+                    <tspan x="10.16496580927726" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Sunda clouded leopard</tspan>
+                </text>
+            </g>
+            <g id="Neofelis nebulosa" transform="translate(780,851.5615561388514)">
+                <circle fill="#f5a623" r="8.16496580927726" />
+                <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.6015625)">
+                    <tspan x="10.16496580927726" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Clouded leopard</tspan>
+                </text>
+            </g>
+            <g id="Panthera leo" transform="translate(780,880.8408715761478)">
+                <circle fill="#f5a623" r="8.16496580927726" />
+                <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.6015625)">
+                    <tspan x="10.16496580927726" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">lion</tspan>
+                </text>
+            </g>
+            <g id="Panthera onca" transform="translate(780,909.0401267802346)">
+                <circle fill="#f5a623" r="7.0710678118654755" />
+                <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.6015625)">
+                    <tspan x="9.071067811865476" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">jaguar</tspan>
+                </text>
+            </g>
+            <g id="Panthera pardus" transform="translate(780,937.2393819843214)">
+                <circle fill="#f5a623" r="8.16496580927726" />
+                <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.6015625)">
+                    <tspan x="10.16496580927726" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">leopard</tspan>
+                </text>
+            </g>
+            <g id="Panthera tigris" transform="translate(780,967.4702495890956)">
+                <circle fill="#f5a623" r="9.12870929175277" />
+                <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.6015625)">
+                    <tspan x="11.12870929175277" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">tiger</tspan>
+                </text>
+            </g>
+            <g id="Panthera uncia" transform="translate(780,997.7011171938699)">
+                <circle fill="#f5a623" r="8.16496580927726" />
+                <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.6015625)">
+                    <tspan x="10.16496580927726" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">snow leopard</tspan>
+                </text>
+            </g>
+            <g id="Pardofelis marmorata" transform="translate(780,1025.9003723979567)">
+                <circle fill="#f5a623" r="7.0710678118654755" />
+                <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.6015625)">
+                    <tspan x="9.071067811865476" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">marbled cat</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+    <g id="legend" transform="translate(980,20)">
+        <g transform="translate(5,0)">
+            <g class="legendSize" transform="translate(0,0)">
+                <g class="legendCells" transform="translate(10,16.015625)">
+                    <g class="cell" transform="translate(0, 0)">
+                        <circle class="swatch" r="0" fill="none" stroke="#ccc" />
+                        <text class="label" transform="translate( 15,&#10;          5)" font-family='"Arial", sans-serif' font-size="10px"><tspan x="0" dy="0em">0.0</tspan></text>
+                    </g>
+                    <g class="cell" transform="translate(0, 26.015625)">
+                        <circle class="swatch" r="10" fill="none" stroke="#ccc" />
+                        <text class="label" transform="translate( 15,&#10;          5)" font-family='"Arial", sans-serif' font-size="10px"><tspan x="0" dy="0em">6.0</tspan></text>
+                    </g>
+                </g>
+                <text class="legendTitle" font-family='"Arial", sans-serif' font-size="12px" font-weight="bold"><tspan x="0" dy="0em">Risk of Extinction</tspan></text>
+            </g>
+            <g class="legendColor" transform="translate(0,84.84375)">
+                <g class="legendCells" transform="translate(0,16.015625)">
+                    <g class="cell" transform="translate(0, 0)">
+                        <rect class="swatch" height="15" width="15" style="fill: rgb(139, 87, 42);" />
+                        <text class="label" transform="translate( 20, 12.5)" font-family='"Arial", sans-serif' font-size="10px"><tspan x="0" dy="0em">Acinonychinae</tspan></text>
+                    </g>
+                    <g class="cell" transform="translate(0, 21.015625)">
+                        <rect class="swatch" height="15" width="15" style="fill: rgb(248, 231, 28);" />
+                        <text class="label" transform="translate( 20, 12.5)" font-family='"Arial", sans-serif' font-size="10px"><tspan x="0" dy="0em">Felinae</tspan></text>
+                    </g>
+                    <g class="cell" transform="translate(0, 42.03125)">
+                        <rect class="swatch" height="15" width="15" style="fill: rgb(245, 166, 35);" />
+                        <text class="label" transform="translate( 20, 12.5)" font-family='"Arial", sans-serif' font-size="10px"><tspan x="0" dy="0em">Pantherinae</tspan></text>
+                    </g>
+                </g>
+                <text class="legendTitle" font-family='"Arial", sans-serif' font-size="12px" font-weight="bold"><tspan x="0" dy="0em">Subfamily</tspan></text>
+            </g>
+        </g>
+    </g>
+</svg>
